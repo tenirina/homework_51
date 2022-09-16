@@ -1,0 +1,5 @@
+.idea
+venv
+*.sglite3
+*.jpeg
+__pycache__
